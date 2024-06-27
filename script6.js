@@ -3,7 +3,7 @@ const product = [
     { id: 0, image: 'gallery/floral with Tee.jpg', title: 'Dodger LA', price: 120 },
     { id: 1, image: 'gallery/dull floral tee.jpg', title: 'Floral Tee', price: 110 },
     { id: 2, image: 'gallery/green cotton tee.jpg', title: 'Beach Tee', price: 124 },
-    { id: 3, image: 'gallery/should flower print.jpg', title: 'Miami Wear', price: 130 },
+    { id: 3, image: 'gallery/arab floral shirt.jpg', title: 'Miami Wear', price: 130 },
     { id: 4, image: 'gallery/LA Dodger Design.jpg', title: 'LA Dodger Design', price: 130 },
     { id: 5, image: 'gallery/atlan original T shirt.jpg', title: 'LA Dodger Design', price: 130 }
 ];
