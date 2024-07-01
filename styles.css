@@ -602,13 +602,10 @@ footer .logo {
 }
 
 /*Blog Page*/
-#page-header.blog-header{
-   background-image: url("images/blog-banner.png");
- 
-}
 
 #blog {
    padding: 150px 150px 0 150px;
+   align-items:center;/*added 7/01*/
 }
 #blog .blog-box{
    display: flex;
