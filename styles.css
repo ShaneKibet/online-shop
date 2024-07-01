@@ -70,7 +70,7 @@ header a {
 }
 
 #hero h4 {
-   color: #ffffff; /* White color */
+   color: black; /* black color */
    padding-bottom: 15px;
 }
 #hero h6 {
@@ -88,16 +88,16 @@ header a {
 
 .button {
    padding: 10px 20px;
-   background-color: #007bff;
+   background-color: #23568d;
    color: white;
    border: none;
-   border-radius: 5px;
+    border-radius: 30px;
    cursor: pointer;
    transition: background-color 0.3s ease;
 }
 
 .button:hover {
-   background-color: #0056b3;
+   background-color: #2ee373;
 }
 
 /* Feature section styling */
@@ -997,7 +997,8 @@ button:hover {
    align-items: center;
    justify-content: space-between; /* Adjust to space out the logo and navbar */
    padding: 20px;
-   background-color: #f8f8f8; /* Example background color */
+   background-color: #fff; /* background color */
+   height: 8vh;
 }
 
 #header a {
