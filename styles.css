@@ -79,7 +79,7 @@ header a {
 }
 
 #hero h2, #hero h1 {
-   color: black; /* black color */
+   color:#1f72bb;
 }
 
 #hero p {
@@ -400,6 +400,7 @@ button.normal {
 }
 
 #newsletter button{
+   height: 3.125rem;
    background-color:#088178 ;
    white-space: nowrap;
    color: #fff;
