@@ -14,8 +14,7 @@ header a img {
    margin: 10px 20px; /* Add some margin around the logo */
 }
 
-/* Header styling */
-
+/* Header styling ....*/
 
 header a {
    text-decoration: none;
@@ -80,7 +79,7 @@ header a {
 }
 
 #hero h2, #hero h1 {
-   color: #088178; /* White color */
+   color: black; /* black color */
 }
 
 #hero p {
